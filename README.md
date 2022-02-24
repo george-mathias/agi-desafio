@@ -1,4 +1,5 @@
 # AGI :: Desafio proposto
+### Escolha a linguagem de programação de sua preferência para automatizar os dois principais cenários da questão anterior.
 
 ### [Blog do AGI](https://blogdoagi.com.br)
 </br>
